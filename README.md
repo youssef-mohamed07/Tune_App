@@ -19,7 +19,7 @@ A simple and modern Flutter app that plays musical notes when tapped. Built with
 |-------------|
 | ![Tune App Screenshot](assets/img.png) |
 
-> *(Add your own screenshot from emulator in `assets/` folder if you'd like.)*
+
 
 ---
 
@@ -30,5 +30,4 @@ A simple and modern Flutter app that plays musical notes when tapped. Built with
 
 ---
 
-## 🎛️ Structure
 
